@@ -213,7 +213,7 @@ public class Oop2cw1Java {
         else{
             System.out.println("invalid");
         }
-        float gpa = (average*5)/100;
+        float gpa= (average*5)/100;
         System.out.println("student's GPA: "+gpa);
     }  
 }
